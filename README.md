@@ -8,5 +8,5 @@ I am:
 * Frog enjoyer
 
 <details align="center">
-![forg](https://kartinkin.net/pics/uploads/posts/2022-07/1658388418_26-kartinkin-net-p-art-lyagushatnik-v-basseine-oboi-28.jpg)
+![forg](pics/forg.jpg)
 </details>
