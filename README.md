@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello there! 🐸
+My name is Adrian, I am 17 years old
 
-<!--
-**lyaguxafrog/lyaguxafrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am:
+* Python-developer
+* Minecraft Bedrock content maker
+* Trying to devops
+* Frog enjoyer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+![forg](https://kartinkin.net/pics/uploads/posts/2022-07/1658388418_26-kartinkin-net-p-art-lyagushatnik-v-basseine-oboi-28.jpg)
+</details>
