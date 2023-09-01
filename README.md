@@ -43,12 +43,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lyaguxafrog&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![stats](https://github-readme-stats.vercel.app/api?username=lyaguxafrog&show_icons=true&theme=merko&hide_border=true)
-
-
-
-
 
 
 </details>
