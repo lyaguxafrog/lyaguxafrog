@@ -1,6 +1,5 @@
 
 
-![frogs](/pics/frog.png)
 
 
 <h1 align="center">Hello world, I'm <a href="https://bit.ly/m/lyaguxa" target="_blank">Adrian 🐸</a> 
@@ -45,5 +44,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=lyaguxafrog&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=lyaguxafrog&show_icons=true&theme=merko&hide_border=true)
 
+---
+
+## Frogs:
+
+![frogs](/pics/frog.png)
 
 </details>
