@@ -6,7 +6,8 @@
 </h1>
 
 <div align="center">
-<img align="center"src="https://komarev.com/ghpvc/?username=lyaguxafroge&style=flat-square&color=blue" alt=""/> <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fadrian_makridenko">
+<img align="center"src="https://komarev.com/ghpvc/?username=lyaguxafroge&style=flat-square&color=blue" alt=""/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fadrian_makridenko">
 
 </div>
 
