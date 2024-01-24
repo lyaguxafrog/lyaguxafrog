@@ -6,13 +6,18 @@
 </h1>
 
 <div align="center">
-<img align="center"src="https://komarev.com/ghpvc/?username=lyaguxafroge&style=flat-square&color=blue" alt=""/
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fadrian_makridenko">
+<img alt="Static Badge" src="https://img.shields.io/badge/Freelance-%2365A3BE?style=flat-square&logo=habr&label=Habr&labelColor=grey&link=https%3A%2F%2Ffreelance.habr.com%2Ffreelancers%2Fmaccree">
+<img alt="Static Badge" src="https://img.shields.io/badge/Codewars-%23B1361E?style=flat-square&logo=Codewars&labelColor=grey&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Flyaguxafrog">
 
 </div>
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fadrian_makridenko)
+
+
+
+
 
 <details align="center">
-
+  
 ---
 
 ### Who am I?
@@ -52,5 +57,10 @@
 ## Frogs:
 
 ![frogs](/pics/frog.png)
+
+---
+<div>
+<img align="center"src="https://komarev.com/ghpvc/?username=lyaguxafroge&style=flat-square&color=blue" alt=""/>
+</div>
 
 </details>
