@@ -2,19 +2,19 @@
 
 
 
-<h1 align="center">Hello world, I'm <a href="https://bit.ly/m/lyaguxa" target="blank">Adrian 🐸</a> 
+<h1 align="center">Hello world, I'm <a href="https://bit.ly/m/lyaguxa" target="_blank">Adrian 🐸</a> 
 </h1>
 
 <div align="center">
-<d href="https://t.me/adrian_makridenko" target="blank">
+<a href="https://t.me/adrian_makridenko" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fadrian_makridenko">
-</d>
-<b href="https://freelance.habr.com/freelancers/maccree" target="blank">
+</a>
+<a href="https://freelance.habr.com/freelancers/maccree" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Freelance-%2365A3BE?style=flat-square&logo=habr&label=Habr&labelColor=grey&link=https%3A%2F%2Ffreelance.habr.com%2Ffreelancers%2Fmaccree">
-</b>
-<c href="https://www.codewars.com/users/lyaguxafrog" target="blank">
+</a>
+<a href="https://www.codewars.com/users/lyaguxafrog" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Codewars-%23B1361E?style=flat-square&logo=Codewars&labelColor=grey&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Flyaguxafrog">
-</c>
+</a>
 
 
 <details align="center">
